@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-
 //functional way
 int sum(int n){
     if (n==0) {
